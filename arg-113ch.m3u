@@ -1,10 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Formula 1 - Principal" group-title="Formula 1",Formula 1 - Principal
-https://xameleon.phantemlis.top/four/secure/b99f12dcafa0002faae98101896f7907/1788556707/premium537/index.m3u8
-#EXTINF:-1 tvg-name="Formula 1 - Opcion 1" group-title="Formula 1",Formula 1 - Opcion 1
-https://xameleon.phantemlis.top/four/secure/b99f12dcafa0002faae98101896f7907/1788556707/premium537/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Formula 1 - Opcion 2" group-title="Formula 1",Formula 1 - Opcion 2
-https://xameleon.phantemlis.top/four/secure/b271b1f648264cd9110116a7cff20f1b/1788556701/premium537/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DAZN F1" group-title="Formula 1",DAZN F1 (Principal)
+https://s2.envivoslatam99.sbs/global/daznf1/index.m3u8?token=6c4746b5f1f1135d2e196f54c9e871861fdffe10-1b-1788591814-1788537814&ip=186.0.199.18
+
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Formula 1",Disney Channel (Opcion 1)
+https://s2.envivoslatam99.sbs/disney1/index.m3u8?token=1729e5d337e1079844331cd61b7f3b3dee75d28d-70-1788591851-1788537851&ip=186.0.199.18
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Infantil",Disney Channel (Opcion 2)
+https://s2.envivoslatam99.sbs/global/disney1/index.m3u8?token=1729e5d337e1079844331cd61b7f3b3dee75d28d-70-1788591851-1788537851&ip=186.0.199.18
+
+#EXTINF:-1 tvg-name="Canal 5 MX" group-title="Formula 1",Canal 5 MX
+https://s2.envivoslatam99.sbs/global/canal5mx/index.m3u8?token=fb53f4d42257501046f8cf11118084188cc5f260-d8-1788591879-1788537879&ip=186.0.199.18
+
+#EXTINF:-1 tvg-name="Eventos Especiales" group-title="Formula 1",Evento Deportivo (Master)
+https://xameleon.phantemlis.top/two/secure/dab0d3ee5837a8ed99abe64eff8b0dcd/1788557750/premium60/index.m3u8
 
 #EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" group-title="General",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
