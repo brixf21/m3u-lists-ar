@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="F1" tvg-name="Canal 26",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" group-title="General",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-name="24/7 Canal de Noticias" group-title="News",24/7 Canal de Noticias
