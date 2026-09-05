@@ -1,17 +1,16 @@
-#EXTM3U
+##EXTM3U
 
-#EXTINF:-1 group-title="Fórmula 1",DAZN F1 (Opción 1)
+#EXTINF:-1 tvg-name="DAZN F1 (Opción 1)" group-title="Formula 1",DAZN F1 (Opción 1)
 https://s1.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=6c0cbe18ea4524ea44959f5514dd7f78d5bab602-99-1788661337-1788607337
 
-#EXTINF:-1 group-title="Fórmula 1",DAZN F1 (Opción 2)
+#EXTINF:-1 tvg-name="DAZN F1 (Opción 2)" group-title="Formula 1",DAZN F1 (Opción 2)
 https://s2.envivoslatam99.sbs/global/daznf1/index.m3u8?token=6c0cbe18ea4524ea44959f5514dd7f78d5bab602-99-1788661337-1788607337&ip=186.0.199.18
 
-#EXTINF:-1 group-title="Fórmula 1",Canal 5 (Opción 1)
+#EXTINF:-1 tvg-name="Canal 5 (Opción 1)" group-title="Formula 1",Canal 5 (Opción 1)
 https://s2.envivoslatam99.sbs/global/canal5mx/index.m3u8?token=5d698b5118d8dc5b86a1084bd7fb4f414ca7c39d-a1-1788661482-1788607482&ip=186.0.199.18
 
-#EXTINF:-1 group-title="Fórmula 1",Canal 5 (Opción 2)
+#EXTINF:-1 tvg-name="Canal 5 (Opción 2)" group-title="Formula 1",Canal 5 (Opción 2)
 https://s1.envivoslatam99.sbs/canal5mx/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=5d698b5118d8dc5b86a1084bd7fb4f414ca7c39d-a1-1788661482-1788607482
-
 
 #EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" group-title="General",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
