@@ -1,13 +1,13 @@
 ##EXTM3U
 
 #EXTINF:-1 tvg-name="DAZN F1 (Opción 1)" group-title="Formula 1",DAZN F1 (Opción 1)
-https://s1.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=6c0cbe18ea4524ea44959f5514dd7f78d5bab602-99-1788661337-1788607337
+https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=d728feb6722a9460f43a7f0604c79ea670ac2e8f-0f-1788747158-1788693158
 
 #EXTINF:-1 tvg-name="DAZN F1 (Opción 2)" group-title="Formula 1",DAZN F1 (Opción 2)
-https://s2.envivoslatam99.sbs/global/daznf1/index.m3u8?token=6c0cbe18ea4524ea44959f5514dd7f78d5bab602-99-1788661337-1788607337&ip=186.0.199.18
+https://s2.envivoslatam99.sbs/global/daznf1/index.m3u8?token=d728feb6722a9460f43a7f0604c79ea670ac2e8f-0f-1788747158-1788693158&ip=186.0.199.18
 
 #EXTINF:-1 tvg-name="Canal 5 (Opción 1)" group-title="Formula 1",Canal 5 (Opción 1)
-https://s2.envivoslatam99.sbs/global/canal5mx/index.m3u8?token=5d698b5118d8dc5b86a1084bd7fb4f414ca7c39d-a1-1788661482-1788607482&ip=186.0.199.18
+https://s1.envivoslatam99.sbs/canal5mx/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=a21501df9c90710dd3e318346ee4a1a4c6a86e9c-f1-1788747217-1788693217
 
 #EXTINF:-1 tvg-name="Canal 5 (Opción 2)" group-title="Formula 1",Canal 5 (Opción 2)
 https://s1.envivoslatam99.sbs/canal5mx/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=5d698b5118d8dc5b86a1084bd7fb4f414ca7c39d-a1-1788661482-1788607482
