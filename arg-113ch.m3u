@@ -1,7 +1,7 @@
 ##EXTM3U
 
-#EXTINF:-1 tvg-name="DAZN F1 (Opción 1)" group-title="Formula 1",DAZN F1 (Opción 1)
-https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=186.0.199.18&token=d728feb6722a9460f43a7f0604c79ea670ac2e8f-0f-1788747158-1788693158
+#EXTINF:-1 tvg-name="DAZN F1 (Opción 1)" group-title="Formula 1",Resident Evil Película
+https://data-limit-c.solo-latino.com/20780152b49971f181b1f6f6d65a0102/982ec84726c545a4af0f974655cef270-microframe-ld.m3u8?hdnts=exp=1791019938_acl=/20780152b49971f181b1f6f6d65a0102/*_hmac=9d2f782bf3d585eda1ea936d0e8715da6a9f60de3b5c99c62b6143c609c44137
 
 #EXTINF:-1 tvg-name="DAZN F1 (Opción 2)" group-title="Formula 1",DAZN F1 (Opción 2)
 https://s2.envivoslatam99.sbs/global/daznf1/index.m3u8?token=d728feb6722a9460f43a7f0604c79ea670ac2e8f-0f-1788747158-1788693158&ip=186.0.199.18
